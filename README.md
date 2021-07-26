@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adeeva
+- 👀 I’m interested in coding and drawing
+- 🌱 I’m currently learning coding and computer 
+- 💞️ I’m looking to collaborate on i dont really know yet
+- 📫 How to reach me email me or chat me in hangouts 
