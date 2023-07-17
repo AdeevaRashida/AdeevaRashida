@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Adeeva
-- 👀 I’m interested in coding and drawing
-- 🌱 I’m currently learning coding and computer 
-- 💞️ I’m looking to collaborate on,, tbh i dont really know yet
-- 📫 How to reach me email me or chat me in hangouts 
+Hello! I am Adeeva Rashida, You can call me Adeeva.
+
+I am a junior developer, and currently studying in one of the Indonesian High Schools.
